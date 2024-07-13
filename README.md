@@ -23,6 +23,7 @@ The project consists of four main components:
 4. **Eve**: The eavesdropper who intercepts and measures the qubits to try and gain information about the key.
 
 ## Project Structure
+
 .
 ├── main.py
 ├── alice.py
