@@ -24,13 +24,14 @@ The project consists of four main components:
 
 ## Project Structure
 
+```bash
 .
 ├── main.py
 ├── alice.py
 ├── bob.py
 ├── eve.py
 └── qubit.py
-
+```
 
 ## Usage
 To run the simulation, use the following command:
